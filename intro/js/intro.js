@@ -86,5 +86,3 @@ class Beer extends Drink{
 
 const beer = new Beer("erdinger", 8.5);
 console.log(beer.info());
-
-
